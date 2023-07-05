@@ -1,0 +1,28 @@
+.btn-signin {
+  padding: 6px 15px;
+  background: #E50914;
+  border-radius: 5px;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+
+.btn {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  padding: 12px 24px;
+  background: #E50914;
+  border-radius: 5px;
+  font-weight: 600;
+  font-size: 24px;
+  min-width: fit-content;
+}
+
+.btn span {
+  font-size: 20px;
+}
+
+.bg-dark {
+  background: #000;
+}
