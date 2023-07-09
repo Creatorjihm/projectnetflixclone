@@ -191,6 +191,7 @@
     padding: 17px 20px;
     background: #2d2d2d;
     margin-bottom: 10px;
+    white-space: nowrap;
   }
 
   .faq-box .question p {
@@ -331,6 +332,7 @@
     }
 
     .content h1 {
+      margin-top: 0;
       font-size: 30px;
     }
 
@@ -379,6 +381,10 @@
       font-size: 18px;
     }
 
+    .faq {
+      padding: 50px 15px;
+    }
+
     .faq h1 {
       font-size: 30px;
     }
@@ -388,7 +394,7 @@
     }
 
     .faq .column .faq-box {
-      padding: 20px;
+      padding: 23px;
     }
 
     .faq-box .question p {
