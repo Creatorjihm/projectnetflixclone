@@ -29,7 +29,7 @@
 
   /* styling the hero section */
   .hero {
-    height: 100svh;
+    height: 100vh;
     background: radial-gradient(transparent, black), url('/NG-en-20230619-popsignuptwoweeks-perspective_alpha_website_medium.jpg') center;
 
     /* background: linear-gradient(black, transparent 10%, transparent 90%, black), url('/img/NG-en-20230612-popsignuptwoweeks-perspective_alpha_website_medium.jpg'); */
